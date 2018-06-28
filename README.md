@@ -19,10 +19,12 @@ steps to install and start client
  *  cd <project-name>
  *  yarn install
  *  yarn start
- Steps to install and start server
+
+steps to install and start server
 * cd api
 * yarn install
 * yarn start
-Steps to start both client and server for development
+
+steps to start both client and server for development
 
 * yarn dev 
